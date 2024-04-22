@@ -8,7 +8,7 @@
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
 - 🌱 I’m a Full Stack Developer
-- 🔭 I’m currently DevOps
+- 🔭 I’m an SDE at Fidelity Investments
 - 📫 Reach me at aryanadiverma@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
